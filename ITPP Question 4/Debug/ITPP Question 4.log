@@ -1,0 +1,2 @@
+﻿  ITPP Question 4.cpp
+C:\Users\user-pc\source\repos\ITPP Question 4\ITPP Question 4.cpp(18): error C4700: uninitialized local variable 'option' used

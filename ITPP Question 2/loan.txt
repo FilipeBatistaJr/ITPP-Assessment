@@ -1,0 +1,7 @@
+The following is your loan calculation: 
+
+Loan amount       = R40000
+Rate             =5.5
+Years           =2
+
+Monthly repayments = R1758.33

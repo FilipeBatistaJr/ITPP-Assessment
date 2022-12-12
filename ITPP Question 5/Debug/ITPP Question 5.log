@@ -1,0 +1,7 @@
+﻿  ITPP Question 5.cpp
+C:\Users\user-pc\Documents\ITPP Question 5\ITPP Question 5.cpp(28,13): error C2181: illegal else without matching if
+C:\Users\user-pc\Documents\ITPP Question 5\ITPP Question 5.cpp(37,13): error C2181: illegal else without matching if
+C:\Users\user-pc\Documents\ITPP Question 5\ITPP Question 5.cpp(51,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\user-pc\Documents\ITPP Question 5\ITPP Question 5.cpp(52,21): error C2065: 'math': undeclared identifier
+C:\Users\user-pc\Documents\ITPP Question 5\ITPP Question 5.cpp(25,48): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\user-pc\Documents\ITPP Question 5\ITPP Question 5.cpp(33,48): warning C4390: ';': empty controlled statement found; is this the intent?
